@@ -3,6 +3,7 @@ name = "jupyter-utils-tddschn"
 version = "0.1.1"
 description = ""
 authors = ["Xinyuan Chen <45612704+tddschn@users.noreply.github.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
